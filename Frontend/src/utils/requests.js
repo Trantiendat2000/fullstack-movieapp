@@ -1,4 +1,4 @@
-const API_KEY = "504b85f6fe0a10a9c7f35945e14e7ddf";
+const API_KEY = "b10f26ad1365b480abc56ae5b5d98080";
 const user_token = "8qlOkxz4wq";
 
 const requests = {
